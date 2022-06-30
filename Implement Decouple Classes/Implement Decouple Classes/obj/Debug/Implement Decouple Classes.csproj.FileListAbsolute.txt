@@ -1,0 +1,8 @@
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\obj\Debug\Implement Decouple Classes.csproj.AssemblyReference.cache
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\obj\Debug\Implement Decouple Classes.csproj.SuggestedBindingRedirects.cache
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\obj\Debug\Implement Decouple Classes.csproj.CoreCompileInputs.cache
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\bin\Debug\Implement Decouple Classes.exe.config
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\bin\Debug\Implement Decouple Classes.exe
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\bin\Debug\Implement Decouple Classes.pdb
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\obj\Debug\Implement Decouple Classes.exe
+D:\Repos\AdvoS\Patterns\Implement Decouple Classes\Implement Decouple Classes\obj\Debug\Implement Decouple Classes.pdb
